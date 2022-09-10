@@ -1,0 +1,11 @@
+{
+    "name": "user/bugs-list",
+    "autoload": {
+        "psr-4": {
+            "User\\BugsList\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
